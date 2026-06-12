@@ -101,8 +101,6 @@ mistune==3.2.1
 mitosheet==0.2.68
 ml_dtypes==0.5.4
 monotonic==1.6
-# Editable install with no version control (myml==0.1)
--e /home/modso/Documents/myml
 namex==0.1.0
 narwhals==2.21.2
 nbclient==0.10.4
